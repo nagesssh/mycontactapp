@@ -3,7 +3,7 @@ package mycontactapp;
 public class Hello {
 
 	public static void main(String[] args){
-		system.out.println("Hello... everybody")';
+		system.out.println("Hi everyone")';
 		
 	}
 
